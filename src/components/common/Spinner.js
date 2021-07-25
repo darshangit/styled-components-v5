@@ -17,7 +17,7 @@ const Spinner = styled.div`
   border-top: none;
   border-right: none;
   margin: 16px auto;
-  animation: ${rotation} 1s linear infinite
+  animation: ${rotation} 1s linear infinite;
 `;
 
 export { Spinner };
